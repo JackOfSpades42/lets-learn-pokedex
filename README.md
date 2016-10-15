@@ -27,7 +27,7 @@ Once that's done, create a folder for this repository to be cloned into, and nav
 
 Once in your folder, clone this repo into it using the following command
 
-`git clone <repo url> ./`
+`git clone https://github.com/ammuench/lets-learn-pokedex.git ./`
 
 Let it run, and then move onto the next step when it's done
 
@@ -70,10 +70,15 @@ A couple of quick things to try doing:
 * Add loading spinners to handle load time on ajax
 * Add more graceful error handling
 * Add animations, style it better
+* Switch from $.ajax to the new native 'fetch' method (check MDN)
 * Add a pokemon comparison that shows two pokemon head to head (and type matchup)
 
 ## RESOURCES
 
 Pokémon API Docs: https://pokeapi.co/docsv2/
+
 jQuery AJAX Docs: http://api.jquery.com/jquery.ajax/
+
 Mozilla Dev Network: https://developer.mozilla.org
+
+
