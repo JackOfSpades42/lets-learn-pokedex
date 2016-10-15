@@ -62,23 +62,18 @@ If you want to switch and make one of the steps the live step, so you can play a
 
 ## CHALLENGES :DogShell:
 
-I'll post a full list in the near future, but for right now, try and come up with some enhancements and create them.
-
-A couple of quick things to try doing: 
-
-* Add more data binding in the DOM, manipulate API data into something interesting and present it
-* Add loading spinners to handle load time on ajax
-* Add more graceful error handling
-* Add animations, style it better
-* Switch from $.ajax to the new native 'fetch' method (check MDN)
-* Add a pokemon comparison that shows two pokemon head to head (and type matchup)
+Check out `CHALLENGES.md` for a full list of challenges to try.
 
 ## RESOURCES
 
-Pokémon API Docs: https://pokeapi.co/docsv2/
-
 jQuery AJAX Docs: http://api.jquery.com/jquery.ajax/
+
+jQuery Effect Docs: https://api.jquery.com/category/effects/
+
+jQuery Event Docs: https://api.jquery.com/category/events/
+
+jQuery Manipulation Docs: https://api.jquery.com/category/manipulation/
 
 Mozilla Dev Network: https://developer.mozilla.org
 
-
+Pokémon API Docs: https://pokeapi.co/docsv2/
