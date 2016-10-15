@@ -62,7 +62,7 @@ If you want to switch and make one of the steps the live step, so you can play a
 
 ## CHALLENGES :DogShell:
 
-Check out `CHALLENGES.md` for a full list of challenges to try.
+Check out [`CHALLENGES.md`](https://github.com/ammuench/lets-learn-pokedex/blob/master/CHALLENGES.md) for a full list of challenges to try.
 
 ## RESOURCES
 
