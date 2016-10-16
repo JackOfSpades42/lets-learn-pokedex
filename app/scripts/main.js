@@ -45,6 +45,12 @@ $('#submitSearch').click(function () {
         $('.pokenumber').html(data.id);
         assignTypes(data.types)
         $('#pokemonSprite').attr('src', data.sprites.front_default);
+        $('.pokeHP').html(data.stats[5].base_stat);
+        $('.pokeAtt').html(data.stats[4].base_stat);
+        $('.pokeDef').html(data.stats[3].base_stat);
+        $('.pokeSpatt').html(data.stats[2].base_stat);
+        $('.pokeSpdef').html(data.stats[1].base_stat);
+        $('.pokeSpd').html(data.stats[0].base_stat);
     })
     .fail(function(data){
         /** 

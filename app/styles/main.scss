@@ -10,6 +10,7 @@ body {
   padding-bottom: 20px;
   background-image: url('../images/grass.png');
   background-repeat: repeat;
+  color:black;
 }
 
 .pokedex {
@@ -17,7 +18,7 @@ body {
     background-color: rgb(69.1%, 8.3%, 17.1%);
     padding: 30px;
     border-radius: 15px;
-    height: 550px;
+    height: 730px;
     border: solid 3px black;
 
     .pokedex-left {
@@ -35,7 +36,7 @@ body {
       }
 
       .screen{
-        background-color: cornflowerblue;
+        background-color: lightblue;
         height: 300px;
         .pokemon-image{
           width: 100%;
